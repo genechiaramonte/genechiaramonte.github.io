@@ -14,8 +14,9 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 ## Learning how to create a github pages blog.
 
-youtube video https://youtu.be/EtqZVTIro_c
+[Getting Started with Jekyll on Windows](https://youtu.be/EtqZVTIro_c)
+
+http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 http://prose.io/
 
-http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
