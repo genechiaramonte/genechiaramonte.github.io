@@ -16,7 +16,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 [Getting Started with Jekyll on Windows](https://youtu.be/EtqZVTIro_c)
 
-http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+[Build a blog with jekyll and github pages](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
-http://prose.io/
+[Prose](http://prose.io/)
 
